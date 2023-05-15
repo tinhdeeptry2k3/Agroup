@@ -3,6 +3,7 @@
     {
         "setText": 
         {
+            "label_29": "Ngày hết hạn",
             "btn_running": "Đang chạy...",
             "ManageAccountBtn": "Quản lí tài khoản",
             "GroupChannelBtn": "Kênh và nhóm",
@@ -511,6 +512,7 @@
     {
         "setText": 
         {
+            "label_29" : "Expiration Date",
             "btn_running": "Running...",
             "ManageAccountBtn": "Manage Account",
             "GroupChannelBtn": "Channels and Groups",
@@ -1019,6 +1021,7 @@
     {
         "setText": 
         {
+            "label_29" : "过期日期",
             "btn_running": "运行中...",
             "ManageAccountBtn": "账户管理",
             "GroupChannelBtn": "频道与群组",
