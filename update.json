@@ -3,6 +3,9 @@
     {
         "setText": 
         {
+            "radioButton_4": "Username",
+            "radioButton_3": "ID",
+            "radioButton_5": "Số điện thoại",
             "label_29": "Ngày hết hạn",
             "btn_running": "Đang chạy...",
             "ManageAccountBtn": "Quản lí tài khoản",
@@ -512,6 +515,9 @@
     {
         "setText": 
         {
+            "radioButton_4": "Username",
+            "radioButton_3": "ID",
+            "radioButton_5": "Phone number",
             "label_29" : "Expiration Date",
             "btn_running": "Running...",
             "ManageAccountBtn": "Manage Account",
@@ -1021,6 +1027,9 @@
     {
         "setText": 
         {
+            "radioButton_4": "用户名",
+            "radioButton_3": "ID",
+            "radioButton_5": "电话号码",
             "label_29" : "过期日期",
             "btn_running": "运行中...",
             "ManageAccountBtn": "账户管理",
