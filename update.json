@@ -3,6 +3,7 @@
     {
         "setText": 
         {
+            "buyKey": "Gia hạn",
             "radioButton_4": "Username",
             "radioButton_3": "ID",
             "radioButton_5": "Số điện thoại",
@@ -515,6 +516,7 @@
     {
         "setText": 
         {
+            "buyKey": "Buy Software",
             "radioButton_4": "Username",
             "radioButton_3": "ID",
             "radioButton_5": "Phone number",
@@ -1027,6 +1029,7 @@
     {
         "setText": 
         {
+            "buyKey": "购买软件",
             "radioButton_4": "用户名",
             "radioButton_3": "ID",
             "radioButton_5": "电话号码",
