@@ -3,6 +3,7 @@
     {
         "setText": 
         {
+            "label_31": "Chọn số tháng mua:",
             "buyKey": "Gia hạn",
             "radioButton_4": "Username",
             "radioButton_3": "ID",
@@ -175,7 +176,8 @@
             "comBoBoxTimeScan": ["Tất cả","1 Ngày","2 Ngày","3 Ngày","7 Ngày","15 Ngày","30 Ngày","Quản trị viên"],
             "optionAddMember": ["Thêm bằng username","Thêm bằng ID","Thêm bằng số điện thoại"],
             "optionSeeding": ["Seeding theo kịch bản","Seeding group đến group"],
-            "comBoBoxTimeScan_2": ["1 Ngày","2 Ngày","3 Ngày","7 Ngày","15 Ngày","30 Ngày"]
+            "comBoBoxTimeScan_2": ["1 Ngày","2 Ngày","3 Ngày","7 Ngày","15 Ngày","30 Ngày"],
+            "comboBox": ["1","3","6","12","Vĩnh viễn"]
         },
         "setTitle":
         {
@@ -516,6 +518,7 @@
     {
         "setText": 
         {
+            "label_31": "Select month of purchase:",
             "buyKey": "Buy Software",
             "radioButton_4": "Username",
             "radioButton_3": "ID",
@@ -688,7 +691,8 @@
             "comBoBoxTimeScan": ["All", "1 Day", "2 Days", "3 Days", "7 Days", "15 Days", "30 Days", "Admin"],
             "optionAddMember": ["Add by username", "Add by ID", "Add by phone number"],
             "optionSeeding": ["Seeding with script", "Seeding from group to group"],
-            "comBoBoxTimeScan_2": ["1 Day", "2 Days", "3 Days", "7 Days", "15 Days", "30 Days"]
+            "comBoBoxTimeScan_2": ["1 Day", "2 Days", "3 Days", "7 Days", "15 Days", "30 Days"],
+            "comboBox": ["1","3","6","12","Forever"]
         },
         "setTitle":
         {
@@ -1029,6 +1033,7 @@
     {
         "setText": 
         {
+            "label_31": "选择购买月份：",
             "buyKey": "购买软件",
             "radioButton_4": "用户名",
             "radioButton_3": "ID",
@@ -1201,7 +1206,8 @@
             "comBoBoxTimeScan": ["全部","1天","2天","3天","7天","15天","30天","管理员"],
             "optionAddMember": ["通过用户名添加","通过ID添加","通过电话号码添加"],
             "optionSeeding": ["按脚本进行Seeding","从群组Seeding到群组"],
-            "comBoBoxTimeScan_2": ["1天","2天","3天","7天","15天","30天"]
+            "comBoBoxTimeScan_2": ["1天","2天","3天","7天","15天","30天"],
+            "comboBox": ["1","3","6","12","永远"]
         },
         "setTitle":
         {
